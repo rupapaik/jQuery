@@ -26,6 +26,7 @@ jQuery Effects: Sliding
 <script>
 
      $(document).ready(function(){
+       
            $("#slidedown").dblclick(function(){
                 $(".para").slideDown(3000);
            });

@@ -25,6 +25,7 @@ function test(){
 <script>
 
      $(document).ready(function(){
+       
            $("#animation").click(function(){
                 $(".inside").animate({
                    left:'500px',

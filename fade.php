@@ -21,6 +21,7 @@ jQuery: fadein(), fadeOut(), fadeTo(), fadetoggle()
 <script>
 
      $(document).ready(function(){
+       
            $("#fadeIn").click(function(){
                 $(".para").fadeIn(1000);
            });

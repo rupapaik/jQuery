@@ -15,7 +15,7 @@ setcookie('visited',"",time() -3600);
        .header h2,.footer h2{font-size:27px;}.para{height:200px;width:815px;background:#fff;border:1px solid #999;padding:15px;margin-top:10px;display:none}
        .fade{height:200px;width:815px;background:#fff;border:1px solid #999;padding:15px;margin-top:10px;}
        .animate{height:200px;width:815px;background:#fff;border:1px solid #999;padding:15px;margin-top:10px;position:relative;} .inside{position:absolute;height:150px;width:150px;background:red;border:1px solid #999;padding:5px;border-radius:50%; color:#fff;}
-
+       .par{height:200px;width:815px;background:#fff;border:1px solid #999;padding:15px;margin-top:10px;}
 	    p(margin:0)
    </style>
    <script src="js/jquery.js"></script>
